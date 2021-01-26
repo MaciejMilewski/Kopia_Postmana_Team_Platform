@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
-* Renders a <WelcomePage /> component
+* Renders a WelcomePage component
 * @param  props
 * @param  props.message - text which will be put in paragraph to output
 */
